@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  epub
+
+  Created by zhiyu zheng on 12-6-7.
+  Copyright (c) 2012年 Baidu. All rights reserved.
+*/
+
+"logo"="en";
+
+"books "="책들 ";
+"chapters "="챕터들 ";
+
+
+"tab1"="tab1_en";
+"tab2"="tab2_en";
+"tab3"="tab3_en";
+"tab4"="tab4_en";
+"tab1_selected"="tab1_selected_en";
+"tab2_selected"="tab2_selected_en";
+"tab3_selected"="tab3_selected_en";
+"tab4_selected"="tab4_selected_en";
+
+"loading data"="데이터 불러오기... <br/>처음 불러올때는 시간이 좀 걸립니다.it may take some time for the first loading.";
+"loading page"="페이지 불러오는중";
+"recently read"="최근 읽은 페이지부터:";
+"no records"="기록이 없습니다.";
+
+"upload_index"="/upload_en.html";
+
+
+"delete"="지우기";
+"upload"="전자책 올리기";
+
+
+"server_network_err"="No WIFI Connected! 와이파이가 접속되지 않았습니다.";
+"server_server_err"="Server Error! 서버 에러";
+"server_upload_info"="Visit the following address from PC 컴퓨터에서 다음 웹주소로 접속해주세요.";
+
+"store_bg"="shop_en";
+"upload_btn"="upload_en";
+
+"init_file"="Lord of the Flies";
+
+"clear records"="Clear Records 기록들이 없습니다.";
+
+"cancelButtonLabel"="No 아니오";
+"remindButtonLabel"="Later나중에 ";
+"rateButtonLabel"="Go to rate ^_^";
+"rateText"="If you like it, rate it!";
+
+"parse_error"="Parse Error!EPUB 구문분석이 되지 않았습니다.";
+"ok"="Ok";
+"message"="Message 메시지";
+"new_version"="New Version Available!새 버전 사용가능 ";
+"go"="Go가기";
+"cancel"="Cancel 취소";
